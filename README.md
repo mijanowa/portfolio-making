@@ -1,3 +1,3 @@
 # Portfolio(unfinished)
 
-using git
+Using git https://mijanowa.github.io/portfolio-making/
