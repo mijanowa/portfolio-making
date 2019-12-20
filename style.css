@@ -221,6 +221,17 @@ header {
 }
 @media screen and (max-width: 575.98px) {
   .window1 h2 {
+    width: 100%;
+    border-radius: 1px;
+    height: 60vh;
+    font-size: 65px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    letter-spacing: 5px;
+
     background: url('https://images.unsplash.com/photo-1563223566-f731efbdbab0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80');
     background-repeat: round;
     background-position: center;
@@ -230,6 +241,17 @@ header {
 }
 @media screen and (max-width: 767.98px) {
   .window1 h2 {
+    width: 100%;
+    border-radius: 1px;
+    height: 60vh;
+    font-size: 65px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    letter-spacing: 5px;
+
     background: url('https://images.unsplash.com/photo-1563223566-f731efbdbab0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80');
     background-repeat: round;
     background-position: center;
